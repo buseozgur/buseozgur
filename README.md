@@ -1,7 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Buse  <br><br>🎓 Industrial Engineering graduate with a strong interest in **data analytics** and **data-driven decision making**.  <br>📊 I enjoy working with data, building dashboards, and turning complex problems into clear insights.  <br>🚀 Curious, detail-oriented, and always eager to learn new technologies.<br><br>---<br><br>
-## 🌱 Currently Learning<br>- 
-Advanced SQL & analytical queries  <br>- Python for data analysis and modeling  <br>- Time series forecasting & machine learning fundamentals  <br>- Data visualization & storytelling
+👋 Hi, I’m Buse  <br><br>🎓 Industrial Engineering graduate with a strong interest in **data analytics** and **data-driven decision making**.  <br>📊 I enjoy working with data, building dashboards, and turning complex problems into clear insights.  <br>🚀 Curious, detail-oriented, and always eager to learn new technologies.
+
+## 🌱 Currently Learning: 
+<br>- Advanced SQL & analytical queries  <br>- Python for data analysis and modeling  <br>- Time series forecasting & machine learning fundamentals  <br>- Data visualization & storytelling
 
 
 ## 🌐 Socials:
@@ -16,5 +17,3 @@ Advanced SQL & analytical queries  <br>- Python for data analysis and modeling  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=buseozgur&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
